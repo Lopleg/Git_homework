@@ -1,2 +1,2 @@
 # Git_homework
-Repository for exercise 6 of git homeworks
+Repository for exercise 6 of git homework
